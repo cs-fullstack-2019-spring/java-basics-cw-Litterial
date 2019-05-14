@@ -36,3 +36,5 @@ Ask the user to enter three numbers. Find the largest of three numbers using onl
 
 ####  Exercise 11:
 Create a program that can calculate the quadratic equation. Google it if you don't know the equation.
+<hr>
+2 points
